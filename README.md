@@ -20,8 +20,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Program and Outputs:
 ```python
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by   : KIRAN G
-RegisterNumber : 212223040095
+Developed by   : DEEPAK R
+RegisterNumber : 212223040031
 ```
 
 <br>
